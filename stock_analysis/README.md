@@ -27,6 +27,7 @@ not to, and by doing so it will cost you money.*
 
 - **Configure Environment**: Copy ``.env.example` and set up the environment variables for [Browseless](https://www.browserless.io/), [Serper](https://serper.dev/), [SEC-API](https://sec-api.io) and [OpenAI](https://platform.openai.com/api-keys)
 - **Install Dependencies**: Run `poetry install --no-root`.
+- **Setup and Launch Env**: Run `poetry shell`.
 - **Execute the Script**: Run `python main.py` and input your idea.
 
 ## Details & Explanation
